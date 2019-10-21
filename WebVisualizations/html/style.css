@@ -1,0 +1,24 @@
+.box1 {
+  height: 90px;
+  width: 800px;
+  padding: 10px;
+  color: #fff;
+  background: deepskyblue;
+}
+/** "He's got his own sense of style:  That's not a compliment." */
+.margin-top-20 {
+  margin-top: 20px;
+}
+
+.box2 {
+  height: 900px;
+  width: 1600px;
+  padding: 50px;
+  color: deepskyblue;
+  background: #fff;
+
+}
+/** "He's got his own sense of style:  That's not a compliment." */
+.margin-top-20 {
+  margin-top: 20px;
+}
